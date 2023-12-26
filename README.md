@@ -6,7 +6,7 @@ Random Number Generation: JavaScript generates a random number between 1 and 6 t
 
 User Interaction: Users can initiate the dice roll by clicking on the "Roll Dice" button. The application responds with a smooth animation and displays the resulting number.
 
-!File Structure
+!!File Structure
 
 index.html: Contains the HTML structure of the web page, including the dice image and the "Roll" button.
 
