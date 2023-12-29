@@ -12,4 +12,4 @@ index.html: Contains the HTML structure of the web page, including the dice imag
 
 style.css: Defines the styles for the web page, including the appearance of the dice and the animation effects.
 
-script.js: Implements the logic for generating a random number and triggering the dice roll animation. It also updates the display with the result.
+index.js: Implements the logic for generating a random number and triggering the dice roll animation. It also updates the display with the result.
